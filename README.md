@@ -10,13 +10,13 @@
 
 <div align="center">
 
-💬 Ask me about **Dart, Flutter, Firebase, State Mangement... or anything [here](linkedin.com/in/ahmed-ashry-5b5b382b9)**
+💬 Ask me about **Dart, Flutter, Firebase, State Mangement... or anything [here]([linkedin.com/in/ahmed-ashry-5b5b382b9](https://www.linkedin.com/in/ahmed-ashry-5b5b382b9/))**
 
 
  </div>
  
 <div align="center"> 
-  <a href="linkedin.com/in/ahmed-ashry-5b5b382b9" target="_blank">
+  <a href="[linkedin.com/in/ahmed-ashry-5b5b382b9](https://www.linkedin.com/in/ahmed-ashry-5b5b382b9/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
